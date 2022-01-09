@@ -9,3 +9,11 @@ Repositório criado para o Desafio de Projeto.
 ## Meu feedback
 
 Aprendi muito com o mini curso introdutório de Git/Github. Não tinha conhecimento nenhum sobre a ferramenta e agora que tenho uma noção, quero buscar mais conhecimento pois sou uma pessoa curiosa e que tem muita vontade de aprender. Obrigada equipe DIO pela oportunidade de aprendizado
+
+## O que você irá encontrar aqui?
+
+Foi criado uma pasta chamada 'Meus-projetos' onde constará os arquivos programados por mim
+
+## Linkedin
+
+[Meu perfil do Linkedin](https://www.linkedin.com/in/beatriz-fernanda-b-535067173/)
